@@ -1,6 +1,7 @@
 ## We Love Cycling
 <!-- blank line --> 
-This project aims to serve the purposes of completing the required component of CMPT 353. The report.pdf discusses the entirety of the project. 
+## Project Description:
+This project aims to serve the purposes of analyzing factors that directly impact on the performance of cyclist.
 
 ## Compilation Instructions
 
