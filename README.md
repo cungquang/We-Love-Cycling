@@ -2,12 +2,6 @@
 <!-- blank line --> 
 This project aims to serve the purposes of completing the required component of CMPT 353. The report.pdf discusses the entirety of the project. 
 
-<!-- blank line -->
-## Developers
-	Daniel Wang
-	Fitzpatrick Laddaran
-	Hong Cung Quang
-
 ## Compilation Instructions
 
 #### Libraries Required
